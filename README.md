@@ -24,4 +24,6 @@ npm run dev
 ```
 
 ```
+ php artisan make:controller UsersController  --resource
+
 ```
